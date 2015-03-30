@@ -1,4 +1,5 @@
 # IP
+A simple script to look up and save machine ip address.
 
 
 ## Disclaimer
@@ -8,7 +9,7 @@ If you find any bug in running the code, free feel to contact me at gaochi0500@g
 
 ## Code Purpose
 
-A simple script to look up and save machine ip addres
+A simple script to look up and save machine ip address.
 
 
 ## Installation and Usage
